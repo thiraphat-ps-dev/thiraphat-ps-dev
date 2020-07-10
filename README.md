@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on My Home
+👨‍💻 My name is Thiraphat Putson
+
 <!--
 **thiraphat-ps-dev/thiraphat-ps-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
