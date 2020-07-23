@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 👨‍💻 My name is Thiraphat Putson
+This is my portfolio.
 
 <!--
 **thiraphat-ps-dev/thiraphat-ps-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
