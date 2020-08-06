@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-👨‍💻 My name is Thiraphat Putson
-This is my portfolio.
-🔭 I’m currently working on Home.
-🌱 I’m currently learning Things Every Programmer Should Know.
-😄 Hobbies : Gunpla, Game, Music, Programming, Gundam
+👨‍💻 My name is Thiraphat Putson<br>
+This is my portfolio.<br>
+🔭 I’m currently working on Home.<br>
+🌱 I’m currently learning Things Every Programmer Should Know.<br>
+😄 Hobbies : Gunpla, Game, Music, Programming, Gundam<br>
 
 
 <!--
