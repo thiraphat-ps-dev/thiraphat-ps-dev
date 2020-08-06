@@ -1,12 +1,19 @@
 ### Hi there 👋
 
-👨‍💻 My name is Thiraphat Putson
-This is my portfolio.
-🔭 I’m currently working on Home.
-🌱 I’m currently learning Things Every Programmer Should Know.
-😄 Hobbies : Gunpla, Game, Music, Programming, Gundam
+👨‍💻 My name is Thiraphat Putson<br>
+I'm a Full Stack Developer.<br>
+This is my portfolio.<br>
+🔭 I’m currently working on Home.<br>
+🌱 I’m currently learning Things Every Programmer Should Know.<br>
+😄 Hobbies : Gunpla, Game, Music, Programming, Gundam<br>
+⚡ IDE that I like to use : Visual Studio Code<br>
+⚡ OS : MacOs, Linux, Windows<br>
+![image info](bg1.jpg)
 
-
+⚡ Codepen : [@thiraphat_ps_dev](https://codepen.io/thiraphat_ps_dev)
+⚡ Facebook : [Thiraphat Putson](https://www.facebook.com/thiraphatputson)
+⚡ Instagram : [gunzxy](https://www.instagram.com/gunzxy/)
+⚡ Email : Thiraphat.ps.dev@gmail.com
 <!--
 **thiraphat-ps-dev/thiraphat-ps-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
