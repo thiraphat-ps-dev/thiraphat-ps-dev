@@ -2,6 +2,10 @@
 
 👨‍💻 My name is Thiraphat Putson
 This is my portfolio.
+🔭 I’m currently working on Home.
+🌱 I’m currently learning Things Every Programmer Should Know.
+😄 Hobbies : Gunpla, Game, Music, Programming, Gundam
+
 
 <!--
 **thiraphat-ps-dev/thiraphat-ps-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
