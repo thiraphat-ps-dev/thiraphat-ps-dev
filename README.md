@@ -8,7 +8,7 @@ This is my portfolio.<br>
 😄 Hobbies : Gunpla, Game, Music, Programming, Gundam<br>
 ⚡ IDE that I like to use : Visual Studio Code<br>
 ⚡ OS : MacOs, Linux, Windows<br>
-![image info](https://github.com/thiraphat-ps-dev/thiraphat-ps-dev/blob/master/bg1.jpg?raw=true)<br>
+![image info](https://github.com/thiraphat-ps-dev/thiraphat-ps-dev/blob/master/bg2.png?raw=true)<br>
 ⚡ Codepen : [@thiraphat_ps_dev](https://codepen.io/thiraphat_ps_dev)<br>
 ⚡ Facebook : [Thiraphat Putson](https://www.facebook.com/thiraphatputson)<br>
 ⚡ Instagram : [gunzxy](https://www.instagram.com/gunzxy/)<br>
