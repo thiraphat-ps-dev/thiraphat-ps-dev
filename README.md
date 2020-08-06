@@ -1,14 +1,21 @@
 ### Hi there 👋
 
 👨‍💻 My name is Thiraphat Putson<br>
+<<<<<<< HEAD
 I'm a Full Stack Developer.<br>
+=======
+>>>>>>> master
 This is my portfolio.<br>
 🔭 I’m currently working on Home.<br>
 🌱 I’m currently learning Things Every Programmer Should Know.<br>
 😄 Hobbies : Gunpla, Game, Music, Programming, Gundam<br>
+<<<<<<< HEAD
 ⚡ IDE that I like to use : Visual Studio Code<br>
 ⚡ OS : MacOs, Linux, Windows<br>
 ![image info](bg1.jpg)
+=======
+
+>>>>>>> master
 
 ⚡ Codepen : [@thiraphat_ps_dev](https://codepen.io/thiraphat_ps_dev)
 ⚡ Facebook : [Thiraphat Putson](https://www.facebook.com/thiraphatputson)
