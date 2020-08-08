@@ -11,7 +11,7 @@ This is my portfolio.<br>
 
  InventoryPWA-NextJs&Django             |  Calculator-ReactNative-Hook
 :-------------------------:|:-------------------------:
-![](https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true)  |  ![](https://github.com/thiraphat-ps-dev/calculator/blob/master/calculator/pv2.png?raw=true)
+<image style='width:50%' src='https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true' />  |  ![](https://github.com/thiraphat-ps-dev/calculator/blob/master/calculator/pv2.png?raw=true)
 
 
 Todoslist-MeanStack            |  web scraping-get_gunpla_list
