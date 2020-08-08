@@ -9,9 +9,14 @@ This is my portfolio.<br>
 ⚡ IDE that I like to use : Visual Studio Code<br>
 ⚡ OS : MacOs, Linux, Windows<br>
 
- Solarized dark             |  Solarized Ocean
+ InventoryPWA-NextJs&Django             |  Calculator-ReactNative-Hook
 :-------------------------:|:-------------------------:
-![](https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true)  |  ![](https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true)
+![](https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true)  |  ![](https://github.com/thiraphat-ps-dev/calculator/blob/master/calculator/pv2.png?raw=true)
+
+
+Todoslist-MeanStack            |  web scraping-get_gunpla_list
+:-------------------------:|:-------------------------:
+![](https://github.com/thiraphat-ps-dev/todos-list-with-mean-stack/blob/master/todo-with-mean-stack.png?raw=true)  |  ![](https://github.com/thiraphat-ps-dev/get_gunpla_list/blob/master/data.png?raw=true)
  
 
 ⚡ Codepen : [@thiraphat_ps_dev](https://codepen.io/thiraphat_ps_dev)<br>
