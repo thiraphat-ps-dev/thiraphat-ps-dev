@@ -9,9 +9,9 @@ This is my portfolio.<br>
 ⚡ IDE that I like to use : Visual Studio Code<br>
 ⚡ OS : MacOs, Linux, Windows<br>
 
- ------------
- #### InventoryPWA-NextJs&Django
-  <image style="width: auto; height: 30%;" src="https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true" />
+ Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true)  |  ![](https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true)
  
 
 ⚡ Codepen : [@thiraphat_ps_dev](https://codepen.io/thiraphat_ps_dev)<br>
