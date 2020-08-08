@@ -20,7 +20,7 @@ Calculator-ReactNative-Hook             |  web scraping-get_gunpla_list
  
  
 telegram_bot_googletrans            
-:-------------------------:|:-------------------------:
+:--------------------------------------------------:
  ![](https://github.com/thiraphat-ps-dev/telegram_bot_googletrans/blob/master/preview.png?raw=true)
  
 
