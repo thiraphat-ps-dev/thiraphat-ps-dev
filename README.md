@@ -9,14 +9,14 @@ This is my portfolio.<br>
 ⚡ IDE that I like to use : Visual Studio Code<br>
 ⚡ OS : MacOs, Linux, Windows<br>
 
- InventoryPWA-NextJs&Django             |  Calculator-ReactNative-Hook
+ InventoryPWA-NextJs&Django             |  Todoslist-MeanStack 
 :-------------------------:|:-------------------------:
-<image style='width:50%' src='https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true' />  |  ![](https://github.com/thiraphat-ps-dev/calculator/blob/master/calculator/pv2.png?raw=true)
+![](https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true)   |  ![](https://github.com/thiraphat-ps-dev/todos-list-with-mean-stack/blob/master/todo-with-mean-stack.png?raw=true)
 
 
-Todoslist-MeanStack            |  web scraping-get_gunpla_list
+Calculator-ReactNative-Hook             |  web scraping-get_gunpla_list
 :-------------------------:|:-------------------------:
-![](https://github.com/thiraphat-ps-dev/todos-list-with-mean-stack/blob/master/todo-with-mean-stack.png?raw=true)  |  ![](https://github.com/thiraphat-ps-dev/get_gunpla_list/blob/master/data.png?raw=true)
+![](https://github.com/thiraphat-ps-dev/calculator/blob/master/calculator/pv2.png?raw=true)  |  ![](https://github.com/thiraphat-ps-dev/get_gunpla_list/blob/master/data.png?raw=true)
  
 
 ⚡ Codepen : [@thiraphat_ps_dev](https://codepen.io/thiraphat_ps_dev)<br>
