@@ -28,6 +28,7 @@ This is my portfolio.<br>
 ⚡ Facebook : [Thiraphat Putson](https://www.facebook.com/thiraphatputson)<br>
 ⚡ Instagram : [gunzxy](https://www.instagram.com/gunzxy/)<br>
 ⚡ Email : Thiraphat.ps.dev@gmail.com<br>
+⚡ Youtube : [Thiraphat Putson](https://www.youtube.com/channel/UCjC_vtlHpezIHY5-ZPmMi_w)
 
 <!--
 **thiraphat-ps-dev/thiraphat-ps-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
