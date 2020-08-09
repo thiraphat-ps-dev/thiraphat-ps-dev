@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 👨‍💻 My name is Thiraphat Putson<br>
-I'm a Full Stack Developer.<br>
-This is my portfolio.<br>
+🔭I'm a Full Stack Developer.<br>
 🔭 I’m currently working on Home.<br>
 🌱 I’m currently learning Things Every Programmer Should Know.<br>
 😄 Hobbies : Gunpla, Game, Music, Programming, Gundam<br>
