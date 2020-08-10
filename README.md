@@ -8,6 +8,12 @@
 ⚡ IDE that I like to use : Visual Studio Code<br>
 ⚡ OS : OSX, Linux, Windows<br>
 
+#### Demo InventoryPWA-NextJs&Django
+https://demoinventoryms.herokuapp.com/
+username: admin
+password: 1234
+
+
  [InventoryPWA-NextJs&Django](https://github.com/thiraphat-ps-dev/InventoryManagementSystem)             |  [Todoslist-MeanStack](https://github.com/thiraphat-ps-dev/todos-list-with-mean-stack) 
 :-------------------------:|:-------------------------:
 ![](https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true)   |  ![](https://github.com/thiraphat-ps-dev/todos-list-with-mean-stack/blob/master/todo-with-mean-stack.png?raw=true)
