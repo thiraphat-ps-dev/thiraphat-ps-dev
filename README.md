@@ -6,7 +6,7 @@
 🌱 I’m currently learning Things Every Programmer Should Know.<br>
 😄 Hobbies : Gunpla, Game, Music, Programming, Gundam<br>
 ⚡ IDE that I like to use : Visual Studio Code<br>
-⚡ OS : MacOs, Linux, Windows<br>
+⚡ OS : OSX, Linux, Windows<br>
 
  [InventoryPWA-NextJs&Django](https://github.com/thiraphat-ps-dev/InventoryManagementSystem)             |  [Todoslist-MeanStack](https://github.com/thiraphat-ps-dev/todos-list-with-mean-stack) 
 :-------------------------:|:-------------------------:
