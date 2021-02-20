@@ -34,6 +34,7 @@ password: 1234
 ⚡ Instagram : [gunzxy](https://www.instagram.com/gunzxy/)<br>
 ⚡ Email : Thiraphat.ps.dev@gmail.com<br>
 ⚡ Youtube : [Thiraphat Putson](https://www.youtube.com/channel/UCjC_vtlHpezIHY5-ZPmMi_w)
+⚡ Medium : [@thiraphat-ps-dev](https://thiraphat-ps-dev.medium.com/)
 
 <!--
 **thiraphat-ps-dev/thiraphat-ps-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
