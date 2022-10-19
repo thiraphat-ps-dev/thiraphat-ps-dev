@@ -28,6 +28,11 @@ password: 1234
 :--------------------------------------------------:
  ![](https://github.com/thiraphat-ps-dev/telegram_bot_googletrans/blob/master/preview.png?raw=true)
  
+[python script bot trade crypto by indicator]()            
+:--------------------------------------------------:
+ ![image](https://user-images.githubusercontent.com/57105447/196762856-9ffff04d-3438-491a-ad94-c3351db71906.png)
+
+ 
 
 ⚡ Codepen : [@thiraphat_ps_dev](https://codepen.io/thiraphat_ps_dev)<br>
 ⚡ Facebook : [Thiraphat Putson](https://www.facebook.com/thiraphatputson)<br>
