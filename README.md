@@ -24,13 +24,13 @@ password: 1234
 ![](https://github.com/thiraphat-ps-dev/calculator/blob/master/calculator/pv2.png?raw=true)  |  ![](https://github.com/thiraphat-ps-dev/get_gunpla_list/blob/master/data.png?raw=true)
  
  
-[telegram_bot_googletrans](https://github.com/thiraphat-ps-dev/telegram_bot_googletrans)            
-:--------------------------------------------------:
- ![](https://github.com/thiraphat-ps-dev/telegram_bot_googletrans/blob/master/preview.png?raw=true)
+[telegram_bot_googletrans](https://github.com/thiraphat-ps-dev/telegram_bot_googletrans)| [python script bot trade crypto by indicator]() 
+:-------------------------:|:-------------------------:
+ ![](https://github.com/thiraphat-ps-dev/telegram_bot_googletrans/blob/master/preview.png?raw=true). |  ![image](https://user-images.githubusercontent.com/57105447/197817881-41869139-f7c0-4aec-80a2-7232afe1e600.png)
  
-[python script bot trade crypto by indicator]()            
-:--------------------------------------------------:
- ![image](https://user-images.githubusercontent.com/57105447/196762856-9ffff04d-3438-491a-ad94-c3351db71906.png)
+ 
+
+
 
  
 
