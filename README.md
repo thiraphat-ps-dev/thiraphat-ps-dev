@@ -55,3 +55,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Thiraphat GitHub stats](https://github-readme-stats.vercel.app/api?username=thiraphat-ps-dev&show_icons=true&theme=transparent)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiraphat-ps-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
