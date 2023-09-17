@@ -1,60 +1,49 @@
-### Hi there 👋
+# Hi, I'm Thiraphat Phutson 👋
 
-👨‍💻 My name is Thiraphat Putson<br>
-🔭I'm a Full Stack Developer.<br>
-🔭 I’m currently working on Home.<br>
-🌱 I’m currently learning Things Every Programmer Should Know.<br>
-😄 Hobbies : Gunpla, Game, Music, Programming, Gundam<br>
-⚡ IDE that I like to use : Visual Studio Code<br>
-⚡ OS : OSX, Linux, Windows<br>
+I'm a passionate Front End Developer with a keen eye for design and a knack for creating beautiful and responsive user interfaces. I'm constantly exploring the latest web technologies and trends to deliver top-notch user experiences.
 
-#### Demo InventoryPWA-NextJs&Django
-https://demoinventoryms.herokuapp.com/
-username: admin
-password: 1234
+## 🔧 Skills
 
+- **Languages**: HTML5, CSS3, JavaScript
+- **Frameworks**: React.js, Next.js
+- **Styling**: CSS-in-JS, SCSS, Bootstrap
+- **Version Control**: Git, GitHub
+- **Build Tools**: Webpack, Babel
+- **Testing**: Jest, React Testing Library
+- **UI/UX Design**: Figma, Adobe XD
 
- [InventoryPWA-NextJs&Django](https://github.com/thiraphat-ps-dev/InventoryManagementSystem)             |  [Todoslist-MeanStack](https://github.com/thiraphat-ps-dev/todos-list-with-mean-stack) 
-:-------------------------:|:-------------------------:
-![](https://github.com/thiraphat-ps-dev/InventoryManagementSystem/blob/master/img/login-desktop.png?raw=true)   |  ![](https://github.com/thiraphat-ps-dev/todos-list-with-mean-stack/blob/master/todo-with-mean-stack.png?raw=true)
+## 💼 Portfolio
 
+You can check out some of my work on my [portfolio website](https://www.yourportfolio.com).
 
-[Calculator-ReactNative-Hook](https://github.com/thiraphat-ps-dev/calculator)             |  [web scraping-get_gunpla_list](https://github.com/thiraphat-ps-dev/get_gunpla_list)
-:-------------------------:|:-------------------------:
-![](https://github.com/thiraphat-ps-dev/calculator/blob/master/calculator/pv2.png?raw=true)  |  ![](https://github.com/thiraphat-ps-dev/get_gunpla_list/blob/master/data.png?raw=true)
- 
- 
-[telegram_bot_googletrans](https://github.com/thiraphat-ps-dev/telegram_bot_googletrans)| [python script bot trade crypto by indicator]() 
-:-------------------------:|:-------------------------:
- ![](https://github.com/thiraphat-ps-dev/telegram_bot_googletrans/blob/master/preview.png?raw=true). |  ![image](https://user-images.githubusercontent.com/57105447/197817881-41869139-f7c0-4aec-80a2-7232afe1e600.png)
- 
- 
+### Projects
 
+1. [Project 1](https://github.com/yourusername/project1) - Description of project 1.
+2. [Project 2](https://github.com/yourusername/project2) - Description of project 2.
+3. [Project 3](https://github.com/yourusername/project3) - Description of project 3.
 
+## 📫 Contact Me
 
- 
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your Name on LinkedIn](https://www.linkedin.com/in/yourname/)
+- Twitter: [@yourusername](https://twitter.com/yourusername)
 
-⚡ Codepen : [@thiraphat_ps_dev](https://codepen.io/thiraphat_ps_dev)<br>
-⚡ Facebook : [Thiraphat Putson](https://www.facebook.com/thiraphatputson)<br>
-⚡ Instagram : [gunzxy](https://www.instagram.com/gunzxy/)<br>
-⚡ Email : Thiraphat.ps.dev@gmail.com<br>
-⚡ Youtube : [Thiraphat Putson](https://www.youtube.com/channel/UCjC_vtlHpezIHY5-ZPmMi_w)<br>
-⚡ Medium : [@thiraphat-ps-dev](https://thiraphat-ps-dev.medium.com/)
+## 🌱 I'm Currently Learning
 
-<!--
-**thiraphat-ps-dev/thiraphat-ps-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always eager to expand my skillset. Currently, I'm learning:
 
-Here are some ideas to get you started:
+- Next.js for server-rendered React applications.
+- TypeScript for type-safe JavaScript.
+- GraphQL for efficient data fetching.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Connect
 
-![Thiraphat GitHub stats](https://github-readme-stats.vercel.app/api?username=thiraphat-ps-dev&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiraphat-ps-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm open to collaborations and new opportunities. Feel free to reach out if you'd like to work together on a project or just have a chat about web development!
+
+## 📚 My Favorite Resources
+
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Frontend Masters](https://frontendmasters.com/)
+
+Thanks for visiting my profile! 😊
