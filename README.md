@@ -4,7 +4,7 @@ I'm a passionate Front End Developer with a keen eye for design and a knack for 
 
 ## 🔧 Skills
 
-- **Languages**: HTML5, CSS3, JavaScript
+- **Languages**: HTML5, CSS3, JavaScript, Typescript
 - **Frameworks**: React.js, Next.js
 - **Styling**: CSS-in-JS, SCSS, Bootstrap
 - **Version Control**: Git, GitHub
@@ -24,8 +24,8 @@ You can check out some of my work on my [portfolio website](https://www.yourport
 
 ## 📫 Contact Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Name on LinkedIn](https://www.linkedin.com/in/yourname/)
+- Email: [thiraphat.ps.dev@gmail.com](mailto:thiraphat.ps.dev@gmail.com)
+- LinkedIn: [Thiraphat Phutson](https://www.linkedin.com/in/thiraphat-phutson/)
 - Twitter: [@yourusername](https://twitter.com/yourusername)
 
 ## 🌱 I'm Currently Learning
