@@ -51,7 +51,7 @@ Description of Project 3.
 
 ## Social Media
 - [Medium](https://medium.com/@thiraphat-ps-dev)
-- [LinkedIn](https://linkedin.com/in/thiraphat-ps-dev)
+- [LinkedIn](https://linkedin.com/in/thiraphat-phutson)
 
 ## GitHub Pages
 - Visit my [portfolio website](https://thiraphat-ps-dev.github.io) to see more about my work and blog posts.
