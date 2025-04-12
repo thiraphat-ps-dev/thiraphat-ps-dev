@@ -1,58 +1,54 @@
+<h1 align="center">Hi there! 👋 I'm Thiraphat</h1>
 
-# Thiraphat Phutson (thiraphat-ps-dev)
+<p align="center">
+  <b>Senior Frontend Developer</b><br/>
+  Passionate about React, TypeScript, and building clean, user-friendly UIs ✨
+</p>
 
-💻 Software Developer | 📝 Medium Blogger 🌟
-"Coding is not just a job; it's a passion and a journey."
-🌍 Based in Thailand
-🚀 Specializing in React, TypeScript, and web development
-📫 Reach me at [thiraphat.ps.dev@gmail.com]
+---
 
-## Pinned Repositories
+### 🧠 About Me
 
-### [my-next-ts-app](https://github.com/thiraphat-ps-dev/my-next-ts-app)
-A Next.js TypeScript project showcasing modern web development practices.
+- 🔭 Currently working as a **Senior Web Developer**
+- 💡 Writing technical blogs on [Medium](https://medium.com/@thiraphatps)
+- 💬 Ask me about **React, Next.js, TypeScript, UI/UX, Clean Code**
+- 📚 Love building **UI components**, design systems, and dev tools
+- ⚡ Fun fact: I love making things look beautiful *and* performant!
 
-- 🚀 Blazing fast performance
-- 📦 Modern, modular architecture
-- 💅 Styled with MUI
-- 🛠️ Type-safe with TypeScript
+---
 
-#### Installation
+### 🛠️ Tech Stack
 
-```bash
-git clone https://github.com/thiraphat-ps-dev/my-next-ts-app.git
-cd my-next-ts-app
-npm install
-npm run dev
-```
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
-#### Usage
+---
 
-1. Clone the repository
-2. Install dependencies
-3. Run the development server
+### 📌 Featured Projects
 
-#### Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+<!-- Pin your repos here -->
+- 🔗 [Portfolio Website](https://github.com/thiraphat-ps-dev/portfolio) – React + Tailwind personal site  
+- 🧩 [Cute UI Kit](https://codepen.io/) – Beautiful & playful React component set  
+- 🛠️ [Dev Tools](https://github.com/thiraphat-ps-dev/dev-utils) – Utility collection for frontend work
 
-#### License
-This project is licensed under the MIT License.
+---
 
-## Other Projects
+### ✍️ Latest Blog
 
-### [Project 2](https://github.com/thiraphat-ps-dev/project-2)
-Description of Project 2.
+📖 [From React Dev to Senior Engineer: It’s Not Just About Code](https://medium.com/@thiraphatps)  
+*Sharing what I’ve learned beyond code – mindset, people, and impact.*
 
-### [Project 3](https://github.com/thiraphat-ps-dev/project-3)
-Description of Project 3.
+---
 
-## GitHub Activity
-- Check out my recent commits, issues, and pull requests on my [activity page](https://github.com/thiraphat-ps-dev).
+### 📫 Connect with Me
 
-## Social Media
-- [Medium](https://medium.com/@thiraphat-ps-dev)
-- [LinkedIn](https://linkedin.com/in/thiraphat-phutson)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiraphat-phutson/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white)](https://medium.com/@thiraphatps)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:thiraphat.ps.dev@gmail.com)
 
-## GitHub Pages
-- Visit my [portfolio website](https://thiraphat-ps-dev.github.io) to see more about my work and blog posts.
+---
 
+⭐️ *Thanks for stopping by! Let's build something amazing together.*
