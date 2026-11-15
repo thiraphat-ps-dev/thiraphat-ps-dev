@@ -22,6 +22,7 @@
 
 ### 🚧 Currently Building
 
+- 🎨 **[thira-ui](https://github.com/thiraphat-ps-dev/thira-ui)** — my own accessible React UI library ([live demo](https://thiraphat-ps-dev.github.io/thira-ui/))
 - 🗡️ **Nine Swords** — a pixel isometric wuxia MMORPG, written in TypeScript
 - 📈 **AlgoSense AI** — AI-assisted algorithmic trading with real-time analysis and risk management
 - 🤖 **Agentic Workspace** — tooling for working alongside AI coding agents
@@ -55,6 +56,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🎨 [**thira-ui**](https://github.com/thiraphat-ps-dev/thira-ui) · [demo](https://thiraphat-ps-dev.github.io/thira-ui/) | Accessible React component library — Base UI primitives, modern CSS with `@layer` and design tokens, Storybook, strict CI | React 19 · TypeScript · CSS |
 | [InventoryManagementSystem](https://github.com/thiraphat-ps-dev/InventoryManagementSystem) | Full-stack inventory management system | Django · Next.js |
 | [ts-utility-stash](https://github.com/thiraphat-ps-dev/ts-utility-stash) | Type-safe TypeScript utility library, bundled with Rollup and tested with Jest | TypeScript |
 | [head-hot-cms](https://github.com/thiraphat-ps-dev/head-hot-cms) | Headless CMS built on Payload 3 with Docker and Playwright tests | Payload · Next.js 15 |
