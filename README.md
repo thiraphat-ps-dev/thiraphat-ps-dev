@@ -29,6 +29,7 @@
 
 - 🎨 **[thira-ui](https://github.com/thiraphat-ps-dev/thira-ui)**: my accessible React UI library, now on [npm](https://www.npmjs.com/package/thira-ui) ([live demo](https://thiraphat-ps-dev.github.io/thira-ui/))
 - 🌐 **[My portfolio](https://thiraphat-ps-dev.github.io/)**: product-launch-style scroll storytelling built with Astro + thira-ui, pure CSS scroll-driven animations
+- 🔤 **[Thira Sans](https://github.com/thiraphat-ps-dev/thira-sans)**: my own Thai + Latin variable font, forked from Anuphan (OFL) and being redesigned ([proof page](https://thiraphat-ps-dev.github.io/thira-sans/))
 - 🗡️ **Nine Swords** — a pixel isometric wuxia MMORPG, written in TypeScript
 - 📈 **AlgoSense AI** — AI-assisted algorithmic trading with real-time analysis and risk management
 - 🤖 **Agentic Workspace** — tooling for working alongside AI coding agents
@@ -64,8 +65,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎨 [**thira-ui**](https://github.com/thiraphat-ps-dev/thira-ui) · [demo](https://thiraphat-ps-dev.github.io/thira-ui/) · [npm](https://www.npmjs.com/package/thira-ui) | Accessible React component library (9 components) built on Base UI primitives. Modern CSS with `@layer` and `oklch()` tokens, axe-checked Storybook, strict CI, tag-based npm releases | React 19 · TypeScript · CSS |
+| 🎨 [**thira-ui**](https://github.com/thiraphat-ps-dev/thira-ui) · [demo](https://thiraphat-ps-dev.github.io/thira-ui/) · [npm](https://www.npmjs.com/package/thira-ui) | Accessible React component library (12 components) built on Base UI primitives. Modern CSS with `@layer` and `oklch()` tokens, axe-checked Storybook, strict CI, tag-based npm releases | React 19 · TypeScript · CSS |
 | 🌐 [**Portfolio**](https://thiraphat-ps-dev.github.io/) · [source](https://github.com/thiraphat-ps-dev/thiraphat-ps-dev.github.io) | Scroll storytelling with an exploded 3D layer view, a scroll-driven theme spectrum and a zoom-through outro. All CSS scroll-driven animations, no animation JS | Astro · thira-ui · CSS |
+| 🔤 [**Thira Sans**](https://github.com/thiraphat-ps-dev/thira-sans) · [proof](https://thiraphat-ps-dev.github.io/thira-sans/) | Thai + Latin variable sans-serif (weight 100–700), forked from Anuphan under the OFL. Builds TTF, OTF and woff2 in CI and deploys a Thai proof page | Glyphs · gftools · CI |
 
 ---
 
