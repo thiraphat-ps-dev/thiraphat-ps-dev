@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://thiraphat-ps-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-thiraphat--ps--dev.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://thiraphat-ps-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://medium.com/@thiraphat-ps-dev"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 ---
@@ -14,6 +15,7 @@
 ### 🧠 About Me
 
 - 🔭 Working as a **Senior Frontend Developer**
+- ✍️ Writing about frontend craft, team workflow, and engineering mindset on [Medium](https://medium.com/@thiraphat-ps-dev)
 - 💬 Ask me about **React, Next.js, TypeScript, design systems, clean code**
 - 📚 Love building **UI components, developer tools, and automation**
 - 🌱 Currently exploring **AI agents** and **game development with TypeScript**
@@ -61,6 +63,15 @@
 
 ---
 
+### ✍️ Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More articles on Medium](https://medium.com/@thiraphat-ps-dev)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -79,6 +90,7 @@
 ### 📫 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://thiraphat-ps-dev.github.io/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@thiraphat-ps-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiraphat-phutson/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thiraphat.ps.dev@gmail.com)
 
