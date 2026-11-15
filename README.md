@@ -1,12 +1,17 @@
+<p align="center">
+  <a href="https://thiraphat-ps-dev.github.io/"><img src="https://thiraphat-ps-dev.github.io/og.png" alt="Code that lasts. Thiraphat Phutson, Senior Frontend Engineer" width="100%"/></a>
+</p>
+
 <h1 align="center">Hi there! 👋 I'm Thiraphat</h1>
 
 <p align="center">
-  <b>Senior Frontend Developer</b> · React · TypeScript · Next.js<br/>
-  I build clean, fast, user-friendly interfaces — and tinker with games, trading bots, and AI agents on the side ✨
+  <b>Senior Frontend Engineer</b> · Bangkok · React · TypeScript · Next.js<br/>
+  I build scalable, accessible interfaces, plus the design systems and teams behind them. On the side I tinker with games, trading bots and AI agents ✨
 </p>
 
 <p align="center">
-  <a href="https://thiraphat-ps-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://thiraphat-ps-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-thiraphat--ps--dev.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.npmjs.com/package/thira-ui"><img src="https://img.shields.io/npm/v/thira-ui?style=for-the-badge&logo=npm&label=thira-ui&color=cb3837" alt="thira-ui on npm"/></a>
   <a href="https://medium.com/@thiraphat-ps-dev"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
@@ -14,7 +19,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Working as a **Senior Frontend Developer**
+- 🔭 Senior Frontend Engineer, leading frontend for membership and e-commerce platforms
 - ✍️ Writing about frontend craft, team workflow, and engineering mindset on [Medium](https://medium.com/@thiraphat-ps-dev)
 - 💬 Ask me about **React, Next.js, TypeScript, design systems, clean code**
 - 📚 Love building **UI components, developer tools, and automation**
@@ -22,7 +27,8 @@
 
 ### 🚧 Currently Building
 
-- 🎨 **[thira-ui](https://github.com/thiraphat-ps-dev/thira-ui)** — my own accessible React UI library ([live demo](https://thiraphat-ps-dev.github.io/thira-ui/))
+- 🎨 **[thira-ui](https://github.com/thiraphat-ps-dev/thira-ui)**: my accessible React UI library, now on [npm](https://www.npmjs.com/package/thira-ui) ([live demo](https://thiraphat-ps-dev.github.io/thira-ui/))
+- 🌐 **[My portfolio](https://thiraphat-ps-dev.github.io/)**: product-launch-style scroll storytelling built with Astro + thira-ui, pure CSS scroll-driven animations
 - 🗡️ **Nine Swords** — a pixel isometric wuxia MMORPG, written in TypeScript
 - 📈 **AlgoSense AI** — AI-assisted algorithmic trading with real-time analysis and risk management
 - 🤖 **Agentic Workspace** — tooling for working alongside AI coding agents
@@ -39,6 +45,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 **Backend & Tools**<br/>
@@ -56,7 +64,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎨 [**thira-ui**](https://github.com/thiraphat-ps-dev/thira-ui) · [demo](https://thiraphat-ps-dev.github.io/thira-ui/) | Accessible React component library — Base UI primitives, modern CSS with `@layer` and design tokens, Storybook, strict CI | React 19 · TypeScript · CSS |
+| 🎨 [**thira-ui**](https://github.com/thiraphat-ps-dev/thira-ui) · [demo](https://thiraphat-ps-dev.github.io/thira-ui/) · [npm](https://www.npmjs.com/package/thira-ui) | Accessible React component library (9 components) built on Base UI primitives. Modern CSS with `@layer` and `oklch()` tokens, axe-checked Storybook, strict CI, tag-based npm releases | React 19 · TypeScript · CSS |
+| 🌐 [**Portfolio**](https://thiraphat-ps-dev.github.io/) · [source](https://github.com/thiraphat-ps-dev/thiraphat-ps-dev.github.io) | Scroll storytelling with an exploded 3D layer view, a scroll-driven theme spectrum and a zoom-through outro. All CSS scroll-driven animations, no animation JS | Astro · thira-ui · CSS |
 
 ---
 
