@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://thiraphat-ps-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-thiraphat--ps--dev.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.npmjs.com/package/thira-ui"><img src="https://img.shields.io/npm/v/thira-ui?style=for-the-badge&logo=npm&label=thira-ui&color=cb3837" alt="thira-ui on npm"/></a>
+  <a href="https://www.npmjs.com/package/thira-sans"><img src="https://img.shields.io/npm/v/thira-sans?style=for-the-badge&logo=npm&label=thira-sans&color=cb3837" alt="thira-sans on npm"/></a>
   <a href="https://medium.com/@thiraphat-ps-dev"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
@@ -67,7 +68,7 @@
 |---|---|---|
 | 🎨 [**thira-ui**](https://github.com/thiraphat-ps-dev/thira-ui) · [demo](https://thiraphat-ps-dev.github.io/thira-ui/) · [npm](https://www.npmjs.com/package/thira-ui) | Accessible React component library (12 components) built on Base UI primitives. Modern CSS with `@layer` and `oklch()` tokens, axe-checked Storybook, strict CI, tag-based npm releases | React 19 · TypeScript · CSS |
 | 🌐 [**Portfolio**](https://thiraphat-ps-dev.github.io/) · [source](https://github.com/thiraphat-ps-dev/thiraphat-ps-dev.github.io) | Scroll storytelling with an exploded 3D layer view, a scroll-driven theme spectrum and a zoom-through outro. All CSS scroll-driven animations, no animation JS | Astro · thira-ui · CSS |
-| 🔤 [**Thira Sans**](https://github.com/thiraphat-ps-dev/thira-sans) · [proof](https://thiraphat-ps-dev.github.io/thira-sans/) | Thai + Latin variable sans-serif (weight 100–700), forked from Anuphan under the OFL. Builds TTF, OTF and woff2 in CI and deploys a Thai proof page | Glyphs · gftools · CI |
+| 🔤 [**Thira Sans**](https://github.com/thiraphat-ps-dev/thira-sans) · [proof](https://thiraphat-ps-dev.github.io/thira-sans/) · [npm](https://www.npmjs.com/package/thira-sans) | Thai + Latin variable sans-serif (weight 100–700), forked from Anuphan under the OFL. Builds TTF, OTF and woff2 in CI and deploys a Thai proof page | Glyphs · gftools · CI |
 
 ---
 
