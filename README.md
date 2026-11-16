@@ -33,6 +33,7 @@
 - 🔤 **[Thira Sans](https://github.com/thiraphat-ps-dev/thira-sans)**: my own Thai + Latin variable font, forked from Anuphan (OFL) and being redesigned ([proof page](https://thiraphat-ps-dev.github.io/thira-sans/))
 - 🌧️ **[Lofi Room](https://github.com/thiraphat-ps-dev/lofi-room)**: full-screen pixel-art scenes for listening to lofi, drawn in code on a canvas ([open the room](https://thiraphat-ps-dev.github.io/lofi-room/))
 - ⌨️ **[Touch Type](https://github.com/thiraphat-ps-dev/touch-type)**: learn to touch type in Thai (Kedmanee) and English, with weak-key drills ([start typing](https://thiraphat-ps-dev.github.io/touch-type/))
+- 📡 **[Pulseboard](https://github.com/thiraphat-ps-dev/pulseboard)**: uptime monitoring with Discord/Slack alerts and a public status page, on Cloudflare Workers + D1 ([live status](https://pulseboard.thira-web.workers.dev/s/thiraphat-ps-dev))
 - 🗡️ **Nine Swords** — a pixel isometric wuxia MMORPG, written in TypeScript
 - 📈 **AlgoSense AI** — AI-assisted algorithmic trading with real-time analysis and risk management
 - 🤖 **Agentic Workspace** — tooling for working alongside AI coding agents
@@ -73,6 +74,7 @@
 | 🔤 [**Thira Sans**](https://github.com/thiraphat-ps-dev/thira-sans) · [proof](https://thiraphat-ps-dev.github.io/thira-sans/) · [npm](https://www.npmjs.com/package/thira-sans) | Thai + Latin variable sans-serif (weight 100–700), forked from Anuphan under the OFL. Builds TTF, OTF and woff2 in CI and deploys a Thai proof page | Glyphs · gftools · CI |
 | 🌧️ [**Lofi Room**](https://github.com/thiraphat-ps-dev/lofi-room) · [live](https://thiraphat-ps-dev.github.io/lofi-room/) | Five animated pixel-art scenes (rainy room, seaside, snowy cabin, neon city, campfire) drawn on a canvas with no image files. YouTube stations, Web Audio rain and a focus timer | Canvas 2D · Web Audio · JS |
 | ⌨️ [**Touch Type**](https://github.com/thiraphat-ps-dev/touch-type) · [live](https://thiraphat-ps-dev.github.io/touch-type/) | Thai + English touch-typing lessons row by row. Keys read by position (no system keyboard switch), Thai-aware cursor, weak-key drills, timed test and per-key heatmap | React · TypeScript · thira-ui |
+| 📡 [**Pulseboard**](https://github.com/thiraphat-ps-dev/pulseboard) · [live status](https://pulseboard.thira-web.workers.dev/s/thiraphat-ps-dev) | Multi-user uptime monitor. A cron Worker checks sites every minute, confirms outages before opening incidents, alerts on Discord/Slack and publishes 90-day status pages. PBKDF2 auth, hashed sessions, SSRF guard | Cloudflare Workers · D1 · Hono · React · thira-ui |
 
 ---
 
