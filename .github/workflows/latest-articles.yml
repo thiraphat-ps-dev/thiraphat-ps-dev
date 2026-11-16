@@ -5,6 +5,11 @@ on:
     - cron: "0 */6 * * *" # every 6 hours
   workflow_dispatch:
 
+# Both workflows commit to README assets on master; queue them so they never race.
+concurrency:
+  group: profile-readme
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
