@@ -81,11 +81,11 @@
 ### ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- 📝 [ปัดมุมทุกมุมของ Variable Font ด้วย Script: บทเรียนจาก Thira Sans](https://thiraphat-ps-dev.medium.com/%E0%B8%9B%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%82%E0%B8%AD%E0%B8%87-variable-font-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-script-%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81-thira-sans-1b62c21be766?source=rss-9e52e66ee713------2) <sub>· Nov 18, 2026</sub>
 - 📝 [Rounding Every Corner of a Variable Font with a Script: Lessons from Thira Sans](https://thiraphat-ps-dev.medium.com/rounding-every-corner-of-a-variable-font-with-a-script-lessons-from-thira-sans-89b53b67afb7?source=rss-9e52e66ee713------2) <sub>· Nov 16, 2026</sub>
 - 📝 [Dogfooding UI Library ของตัวเอง: สร้าง Portfolio แบบ Scroll-Driven ด้วย CSS ล้วน](https://thiraphat-ps-dev.medium.com/dogfooding-ui-library-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-portfolio-%E0%B9%81%E0%B8%9A%E0%B8%9A-scroll-driven-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-css-%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99-ea4725a72618?source=rss-9e52e66ee713------2) <sub>· Nov 15, 2026</sub>
 - 📝 [Dogfooding a React UI Library: Building a Scroll-Driven Portfolio with Pure CSS](https://thiraphat-ps-dev.medium.com/dogfooding-a-react-ui-library-building-a-scroll-driven-portfolio-with-pure-css-dbf90becc1bd?source=rss-9e52e66ee713------2) <sub>· Nov 15, 2026</sub>
-- 📝 [สร้าง React UI Library ด้วย Native CSS: บทเรียนจาก thira-ui](https://thiraphat-ps-dev.medium.com/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-react-ui-library-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-native-css-%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81-thira-ui-2df3821712ae?source=rss-9e52e66ee713------2) <sub>· Nov 15, 2026</sub>
-- 📝 [Building a React UI Library with Native CSS: Lessons from thira-ui](https://thiraphat-ps-dev.medium.com/building-a-react-ui-library-with-native-css-lessons-from-thira-ui-69975f7c3607?source=rss-9e52e66ee713------2) <sub>· Nov 15, 2026</sub><!-- BLOG-POST-LIST:END -->
+- 📝 [สร้าง React UI Library ด้วย Native CSS: บทเรียนจาก thira-ui](https://thiraphat-ps-dev.medium.com/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-react-ui-library-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-native-css-%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81-thira-ui-2df3821712ae?source=rss-9e52e66ee713------2) <sub>· Nov 15, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on Medium](https://medium.com/@thiraphat-ps-dev)
 
