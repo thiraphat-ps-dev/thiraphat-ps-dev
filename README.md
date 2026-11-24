@@ -34,9 +34,6 @@
 - 🌧️ **[Lofi Room](https://github.com/thiraphat-ps-dev/lofi-room)**: full-screen pixel-art scenes for listening to lofi, drawn in code on a canvas ([open the room](https://thiraphat-ps-dev.github.io/lofi-room/))
 - ⌨️ **[Touch Type](https://github.com/thiraphat-ps-dev/touch-type)**: learn to touch type in Thai (Kedmanee) and English, with weak-key drills ([start typing](https://thiraphat-ps-dev.github.io/touch-type/))
 - 📡 **[Pulseboard](https://github.com/thiraphat-ps-dev/pulseboard)**: uptime monitoring with Discord/Slack alerts and a public status page, on Cloudflare Workers + D1 ([live status](https://pulseboard.thira-web.workers.dev/s/thiraphat-ps-dev))
-- 🗡️ **Nine Swords** — a pixel isometric wuxia MMORPG, written in TypeScript
-- 📈 **AlgoSense AI** — AI-assisted algorithmic trading with real-time analysis and risk management
-- 🤖 **Agentic Workspace** — tooling for working alongside AI coding agents
 
 ---
 
