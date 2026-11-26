@@ -1,0 +1,22 @@
+name: commit-city
+on:
+  schedule:
+    - cron: '0 0 * * *' # every day
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: thiraphat-ps-dev/commit-city@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/city.svg
+      - name: Put it on the output branch
+        run: |
+          cd dist
+          git init -q -b output
+          git add city.svg
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -qm 'Build the city'
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" output

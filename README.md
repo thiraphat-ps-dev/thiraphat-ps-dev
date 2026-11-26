@@ -33,6 +33,7 @@
 - 🔤 **[Thira Sans](https://github.com/thiraphat-ps-dev/thira-sans)**: my own Thai + Latin variable font, forked from Anuphan (OFL) and being redesigned ([proof page](https://thiraphat-ps-dev.github.io/thira-sans/))
 - 🌧️ **[Lofi Room](https://github.com/thiraphat-ps-dev/lofi-room)**: full-screen pixel-art scenes for listening to lofi, drawn in code on a canvas ([open the room](https://thiraphat-ps-dev.github.io/lofi-room/))
 - ⌨️ **[Touch Type](https://github.com/thiraphat-ps-dev/touch-type)**: learn to touch type in Thai (Kedmanee) and English, with weak-key drills ([start typing](https://thiraphat-ps-dev.github.io/touch-type/))
+- 🌃 **[commit-city](https://github.com/thiraphat-ps-dev/commit-city)**: a GitHub Action that turns your year of contributions into an animated pixel city at night, for your profile README (mine is below)
 - 📡 **[Pulseboard](https://github.com/thiraphat-ps-dev/pulseboard)**: uptime monitoring with Discord/Slack alerts and a public status page, on Cloudflare Workers + D1 ([live status](https://pulseboard.thira-web.workers.dev/s/thiraphat-ps-dev))
 
 ---
@@ -90,6 +91,9 @@
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/thiraphat-ps-dev/commit-city"><img src="https://raw.githubusercontent.com/thiraphat-ps-dev/thiraphat-ps-dev/output/city.svg" alt="My year on GitHub as a pixel city at night, made with commit-city" width="100%"/></a>
+</p>
 <p align="center">
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details"/>
 </p>
